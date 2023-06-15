@@ -1,0 +1,7 @@
+O meu computador nao roda o programa:
+
+1 - Tenten instalar manualmente mais nao rodou (Falhou).
+2 - executei como adm nao pegou (Falhou).
+
+
+Sei que vai funcionar mas o problema é na minha maquina! (eu Acho) 
